@@ -1,6 +1,6 @@
 ## Hi I'm Mirembe 👋
 
-Turns complex data into clear tools for smarter decisions. I build what communities and teams need using Python, Excel, SQL, and Tableau, always asking how tech, policy, and business intelligence can work together.
+I turn complex data into clear tools for smarter decisions. I build what communities and teams need using Python, Excel, SQL, and Tableau, always asking how tech, policy, and business intelligence can work together.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mirembe-ddumba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mddumba11@gmail.com) 
 
